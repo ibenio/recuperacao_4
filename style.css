@@ -1,0 +1,39 @@
+body {
+    background-color: antiquewhite;
+}
+
+#cabecario {
+    text-align: center;
+    background: gray;
+}
+
+#imagem_1 {
+    margin-top: 25px;
+    margin-bottom: 26px;
+    border-radius: 99px;
+}
+
+img{
+    width: 50%;
+
+}
+
+#titulo {
+    font-size: 36px;
+    text-align: center;
+    
+}
+
+#imagem {
+    text-align: center;
+}
+
+#fundo {
+    text-align: center;
+    background: gray;
+}
+
+#cabecario {
+padding: 100px;
+font-size: 26px;
+}
